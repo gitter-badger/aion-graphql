@@ -34,6 +34,8 @@ The project will be enhanced to support other read and write operations.
 
 ### **1. Setup from Binary**
 
+[![Join the chat at https://gitter.im/aion-graphql/Lobby](https://badges.gitter.im/aion-graphql/Lobby.svg)](https://gitter.im/aion-graphql/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Download the latest release binary from [GitHub](https://github.com/satran004/aion-graphql/releases) repo.
 
 `$> unzip aion-graphql-dist-[version].zip`
